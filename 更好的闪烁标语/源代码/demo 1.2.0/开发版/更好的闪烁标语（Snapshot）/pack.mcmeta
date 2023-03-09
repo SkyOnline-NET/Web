@@ -1,0 +1,14 @@
+{
+    "pack":{
+        "pack_format":12,
+        "description":"更好的闪烁标语！ (By Anson_Kindle_Fire+ #2023.3.5)"
+    },
+    "language": {
+        "zh_meme": {
+            "name": "§e\u751f\u8349\u4e2d\u6587§r",
+            "region": "§c\u4e0d\u77e5\u9053\u90a3\u4f60\u7684\u751f\u8349\u8bed\u8a00§r",
+            "bidirectional": false
+        }
+    }
+
+}
